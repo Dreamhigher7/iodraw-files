@@ -13,8 +13,14 @@
             <mxPoint x="151" y="368" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2-5dAAmRkZxx_TMUP3zv-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2-5dAAmRkZxx_TMUP3zv-3" target="2-5dAAmRkZxx_TMUP3zv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2-5dAAmRkZxx_TMUP3zv-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;输入RGB图像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="223" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2-5dAAmRkZxx_TMUP3zv-4" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="83" y="363" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
