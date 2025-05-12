@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2-5dAAmRkZxx_TMUP3zv-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RGB转Lab颜色空间&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="271" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="229" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2-5dAAmRkZxx_TMUP3zv-6" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;颜色编码器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="435" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="431.5" y="348" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2-5dAAmRkZxx_TMUP3zv-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;纹理编码器&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="272" y="409" width="120" height="60" as="geometry" />
+          <mxGeometry x="268.5" y="348" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
