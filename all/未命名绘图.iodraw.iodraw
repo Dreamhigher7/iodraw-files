@@ -60,7 +60,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JNna2RTSkEmWo80BkKDM-18" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JNna2RTSkEmWo80BkKDM-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;颜色编码器&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="463" y="79" width="167" height="82" as="geometry" />
         </mxCell>
         <mxCell id="JNna2RTSkEmWo80BkKDM-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JNna2RTSkEmWo80BkKDM-21" target="JNna2RTSkEmWo80BkKDM-23">
