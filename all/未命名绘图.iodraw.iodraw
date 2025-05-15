@@ -93,8 +93,10 @@
         <mxCell id="JNna2RTSkEmWo80BkKDM-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JNna2RTSkEmWo80BkKDM-27" target="JNna2RTSkEmWo80BkKDM-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JNna2RTSkEmWo80BkKDM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JNna2RTSkEmWo80BkKDM-33" target="JNna2RTSkEmWo80BkKDM-41">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JNna2RTSkEmWo80BkKDM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JNna2RTSkEmWo80BkKDM-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="422" y="802" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JNna2RTSkEmWo80BkKDM-33" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;第四层尺度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="709" width="120" height="60" as="geometry" />
@@ -104,9 +106,6 @@
         </mxCell>
         <mxCell id="JNna2RTSkEmWo80BkKDM-34" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;第三层尺度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="362" y="555" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JNna2RTSkEmWo80BkKDM-41" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="362" y="849" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
